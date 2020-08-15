@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">EBridge_Aust_03</string>
+    <string name="button_name">Admin </string>
+    <string name="button1_name">Faculty </string>
+    <string name="button2_name">Student</string>
+    <string name="button3_name">Add faculty</string>
+    <string name="button4_name">Add</string>
+    <string name="button5_name">Add time table</string>
+    <string name="button6_name">Add question papers</string>
+    <string name="button7_name">Send Notification</string>
+    <string name="button8_name">View doubts</string>
+    <string name="button9_name">choose image</string>
+    <string name="button10_name">submit</string>
+    <string name="button11_name">Login</string>
+
+</resources>
